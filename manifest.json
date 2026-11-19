@@ -1,0 +1,446 @@
+{
+ "system": "cardio",
+ "system_he": "קרדיולוגיה",
+ "films": [
+  {
+   "id": "t1018",
+   "day": "18/10/2026",
+   "title": "מערכת ההולכה והאק\"ג התקין – בסיפורים",
+   "title_en": "Conduction and the normal ECG, told as stories",
+   "course": "קרדיולוגיה",
+   "poster": "clips/t1018/poster.jpg",
+   "clips": [
+    {
+     "n": 1,
+     "title": "התזמורת · מערכת ההולכה",
+     "dur": 84.6,
+     "v": "clips/t1018/c01.mp4",
+     "a": {
+      "en": "clips/t1018/c01_en.m4a",
+      "he": "clips/t1018/c01_he.m4a"
+     },
+     "cues": [
+      {
+       "a": 1.0,
+       "b": 9.07,
+       "en": "Conduction + the normal ECG, told as stories – each one translated back into medicine.",
+       "he": "מערכת ההולכה והאק\"ג התקין, כסיפורים – וכל סיפור מתורגם חזרה לרפואה.",
+       "sci": false
+      },
+      {
+       "a": 10.02,
+       "b": 20.96,
+       "en": "The heart is an orchestra; every beat is one chord. The conductor starts each one – on his own.",
+       "he": "הלב הוא תזמורת; כל פעימה היא אקורד. המנצח מתחיל כל אקורד – לבד.",
+       "sci": false
+      },
+      {
+       "a": 21.31,
+       "b": 26.99,
+       "en": "The violins play first. On the ECG microphone: a small bump.",
+       "he": "הכינורות מנגנים ראשונים. במיקרופון של האק\"ג: בליטה קטנה.",
+       "sci": false
+      },
+      {
+       "a": 27.34,
+       "b": 37.91,
+       "en": "The doorman holds everyone ~0.1 s so the violins can finish. On the microphone: a flat pause.",
+       "he": "השוער מעכב את כולם כ-0.1 שנ' כדי שהכינורות יסיימו. במיקרופון: הפסקה שטוחה.",
+       "sci": false
+      },
+      {
+       "a": 38.26,
+       "b": 43.04,
+       "en": "The express lift brings the signal to every singer at once.",
+       "he": "המעלית המהירה מביאה את האות לכל הזמרים בבת אחת.",
+       "sci": false
+      },
+      {
+       "a": 43.39,
+       "b": 48.46,
+       "en": "The whole choir sings together: a tall, narrow spike.",
+       "he": "כל המקהלה שרה יחד: קוץ גבוה וצר.",
+       "sci": false
+      },
+      {
+       "a": 48.81,
+       "b": 52.27,
+       "en": "Then they sit down to recover: a gentle hump.",
+       "he": "ואז הם מתיישבים להתאושש: גבשושית עדינה.",
+       "sci": false
+      },
+      {
+       "a": 53.02,
+       "b": 67.98,
+       "en": "IN SCIENCE: conductor = SA node (automaticity) · violins = atria → P · doorman = AV node → PR.",
+       "he": "במדע: המנצח = קשר הסינוס (אוטומטיות) · הכינורות = העליות ← P · השוער = קשר ה-AV ← PR.",
+       "sci": true
+      },
+      {
+       "a": 68.33,
+       "b": 84.14,
+       "en": "Lift = His, bundle branches, Purkinje (inside → out) · choir = ventricles → narrow QRS · sitting = repolarization → T.",
+       "he": "המעלית = His, השוקיים, Purkinje (מבפנים החוצה) · המקהלה = החדרים ← QRS צר · ההתיישבות = רפולריזציה ← T.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "title": "קוצבים חלופיים וחסמים",
+     "dur": 47.8,
+     "v": "clips/t1018/c02.mp4",
+     "a": {
+      "en": "clips/t1018/c02_en.m4a",
+      "he": "clips/t1018/c02_he.m4a"
+     },
+     "cues": [
+      {
+       "a": 0.47,
+       "b": 6.71,
+       "en": "Conductor ill → the doorman takes the baton, slower: 40–60.",
+       "he": "המנצח חולה ← השוער לוקח את השרביט, לאט יותר: 40–60.",
+       "sci": false
+      },
+      {
+       "a": 7.06,
+       "b": 14.78,
+       "en": "Door jammed → only the drummer: 20–40, slow and unreliable.",
+       "he": "הדלת תקועה ← רק המתופף: 20–40, איטי ולא אמין.",
+       "sci": false
+      },
+      {
+       "a": 15.12,
+       "b": 21.84,
+       "en": "Block at the door: usually benign. Below it: only the drummer – dangerous.",
+       "he": "חסם בדלת: לרוב שפיר. מתחתיה: רק המתופף – מסוכן.",
+       "sci": false
+      },
+      {
+       "a": 22.59,
+       "b": 39.67,
+       "en": "IN SCIENCE: sinus 60–100 · junctional escape 40–60, narrow · ventricular escape 20–40, wide, unreliable.",
+       "he": "במדע: סינוס 60–100 · מילוט צמתי 40–60, צר · מילוט חדרי 20–40, רחב ולא אמין.",
+       "sci": true
+      },
+      {
+       "a": 40.02,
+       "b": 47.35,
+       "en": "Block above His: usually benign · below His: life-threatening → pacemaker.",
+       "he": "חסם מעל ה-His: לרוב שפיר · מתחת ל-His: מסכן חיים ← קוצב.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "title": "המצעד · וקטור הדה-פולריזציה",
+     "dur": 63.3,
+     "v": "clips/t1018/c03.mp4",
+     "a": {
+      "en": "clips/t1018/c03_en.m4a",
+      "he": "clips/t1018/c03_he.m4a"
+     },
+     "cues": [
+      {
+       "a": 0.47,
+       "b": 8.92,
+       "en": "A parade, and you're filming it. Marching toward your camera → the needle goes up.",
+       "he": "מצעד, ואתם מצלמים. צועד לכיוון המצלמה ← המחט עולה.",
+       "sci": false
+      },
+      {
+       "a": 9.27,
+       "b": 15.96,
+       "en": "Away → down. Sideways → barely moves.",
+       "he": "מתרחק ← יורד. מהצד ← כמעט לא זז.",
+       "sci": false
+      },
+      {
+       "a": 16.31,
+       "b": 28.66,
+       "en": "Camera V1 on the right, V6 on the left. A small group crosses left → right: small blip up in V1, small dip in V6.",
+       "he": "מצלמה V1 מימין, V6 משמאל. קבוצה קטנה חוצה משמאל לימין: בליטה קטנה ב-V1, שקע קטן ב-V6.",
+       "sci": false
+      },
+      {
+       "a": 29.01,
+       "b": 35.31,
+       "en": "Then the big crowd marches left and back: deep plunge in V1, tall peak in V6.",
+       "he": "ואז ההמון הגדול צועד שמאלה ואחורה: צלילה עמוקה ב-V1, שיא גבוה ב-V6.",
+       "sci": false
+      },
+      {
+       "a": 36.06,
+       "b": 47.52,
+       "en": "IN SCIENCE: parade = depolarization vector · toward + electrode → positive · away → negative · perpendicular → flat.",
+       "he": "במדע: המצעד = וקטור הדפולריזציה · לכיוון האלקטרודה החיובית ← חיובי · מתרחק ← שלילי · מאונך ← שטוח.",
+       "sci": true
+      },
+      {
+       "a": 47.87,
+       "b": 62.86,
+       "en": "Small group = septum (left → right): r in V1, q in V6 · big crowd = LV: deep S in V1, tall R in V6.",
+       "he": "הקבוצה הקטנה = המחיצה (משמאל לימין): r ב-V1, q ב-V6 · ההמון = חדר שמאל: S עמוק ב-V1, R גבוה ב-V6.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "title": "נייר האק\"ג · מקטעים",
+     "dur": 48.0,
+     "v": "clips/t1018/c04.mp4",
+     "a": {
+      "en": "clips/t1018/c04_en.m4a",
+      "he": "clips/t1018/c04_he.m4a"
+     },
+     "cues": [
+      {
+       "a": 0.47,
+       "b": 7.49,
+       "en": "The ECG paper is a conveyor belt at a fixed speed: distance = time.",
+       "he": "נייר האק\"ג הוא מסוע במהירות קבועה: מרחק = זמן.",
+       "sci": false
+      },
+      {
+       "a": 7.84,
+       "b": 16.14,
+       "en": "Small tiles, big tiles of five – and going up, voltage.",
+       "he": "משבצות קטנות, משבצות גדולות של חמש – ולגובה, מתח.",
+       "sci": false
+      },
+      {
+       "a": 16.49,
+       "b": 22.64,
+       "en": "The choir's time on stage – first note to sitting down – is one stretch of belt.",
+       "he": "הזמן של המקהלה על הבמה – מהצליל הראשון עד ההתיישבות – הוא קטע אחד של מסוע.",
+       "sci": false
+      },
+      {
+       "a": 23.39,
+       "b": 35.16,
+       "en": "IN SCIENCE: 25 mm/s · small square = 0.04 s, 0.1 mV · big square = 0.2 s.",
+       "he": "במדע: 25 מ\"מ לשנייה · משבצת קטנה = 0.04 שנ', 0.1 מיליוולט · משבצת גדולה = 0.2 שנ'.",
+       "sci": true
+      },
+      {
+       "a": 35.51,
+       "b": 47.49,
+       "en": "Time on stage = QT: start of QRS → end of T · atrial recovery hides in the QRS.",
+       "he": "הזמן על הבמה = QT: מתחילת QRS עד סוף T · ההתאוששות של העליות מוסתרת ב-QRS.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 5,
+     "title": "12 המצלמות · הלידים",
+     "dur": 52.8,
+     "v": "clips/t1018/c05.mp4",
+     "a": {
+      "en": "clips/t1018/c05_en.m4a",
+      "he": "clips/t1018/c05_he.m4a"
+     },
+     "cues": [
+      {
+       "a": 0.47,
+       "b": 7.32,
+       "en": "12 leads = 12 cameras around a stadium, from only 10 electrodes.",
+       "he": "12 חיבורים = 12 מצלמות סביב אצטדיון, מ-10 אלקטרודות בלבד.",
+       "sci": false
+      },
+      {
+       "a": 7.67,
+       "b": 16.15,
+       "en": "Six on the wall (up, down, left, right) · six in a ring at chest height (front → back).",
+       "he": "שש על הקיר (למעלה, למטה, ימין, שמאל) · שש בטבעת בגובה החזה (מקדימה לאחור).",
+       "sci": false
+      },
+      {
+       "a": 16.5,
+       "b": 24.51,
+       "en": "Bottom cameras see the floor · left cameras the left stand · front cameras the front and middle.",
+       "he": "מצלמות למטה רואות את הרצפה · משמאל את היציע השמאלי · מקדימה את הקדמי והאמצע.",
+       "sci": false
+      },
+      {
+       "a": 25.26,
+       "b": 41.85,
+       "en": "IN SCIENCE: limb leads = frontal · chest leads = horizontal · II, III, aVF = inferior · I, aVL = high lateral · V1–V4 = anterior/septal.",
+       "he": "במדע: גפיים = מישור חזיתי · חזה = אופקי · II, III, aVF = תחתון · I, aVL = צדי גבוה · V1–V4 = קדמי/מחיצה.",
+       "sci": true
+      },
+      {
+       "a": 42.2,
+       "b": 52.36,
+       "en": "Check: aVR negative, I positive. I inverted with negative P → arm leads swapped.",
+       "he": "בדיקה: aVR שלילי, I חיובי. I הפוך עם P שלילי ← הוחלפו זרועות.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 6,
+     "title": "קצב ומקצב",
+     "dur": 55.2,
+     "v": "clips/t1018/c06.mp4",
+     "a": {
+      "en": "clips/t1018/c06_en.m4a",
+      "he": "clips/t1018/c06_he.m4a"
+     },
+     "cues": [
+      {
+       "a": 0.48,
+       "b": 9.2,
+       "en": "Rate: big tiles between two spikes → 300 ÷ that number.",
+       "he": "קצב: משבצות גדולות בין שני קוצים ← 300 חלקי המספר.",
+       "sci": false
+      },
+      {
+       "a": 9.55,
+       "b": 21.15,
+       "en": "Countdown 300 · 150 · 100 · 75 · 60 · 50. Irregular: spikes in 10 s × 6.",
+       "he": "ספירה לאחור 300 · 150 · 100 · 75 · 60 · 50. לא סדיר: קוצים ב-10 שנ' × 6.",
+       "sci": false
+      },
+      {
+       "a": 21.5,
+       "b": 34.75,
+       "en": "Rhythm: is the conductor leading? Regular? A violin note before every chord, up in II, down in aVR? One per chord?",
+       "he": "מקצב: המנצח מוביל? סדיר? צליל כינור לפני כל אקורד, למעלה ב-II, למטה ב-aVR? אחד לכל אקורד?",
+       "sci": false
+      },
+      {
+       "a": 35.5,
+       "b": 54.73,
+       "en": "IN SCIENCE: rate = 300 ÷ big squares R–R · sinus = normal P (+II, −aVR) before every QRS · regular ≠ sinus.",
+       "he": "במדע: קצב = 300 ÷ משבצות גדולות R–R · סינוס = P תקין (+II, −aVR) לפני כל QRS · סדיר ≠ סינוס.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 7,
+     "title": "הציר",
+     "dur": 49.7,
+     "v": "clips/t1018/c07.mp4",
+     "a": {
+      "en": "clips/t1018/c07_en.m4a",
+      "he": "clips/t1018/c07_he.m4a"
+     },
+     "cues": [
+      {
+       "a": 0.47,
+       "b": 8.04,
+       "en": "Axis = the parade's compass needle: normally down and left.",
+       "he": "הציר = מחט המצפן של המצעד: בדרך כלל למטה ושמאלה.",
+       "sci": false
+      },
+      {
+       "a": 8.39,
+       "b": 15.42,
+       "en": "Two windows: I and aVF. Both see it coming → normal.",
+       "he": "שני חלונות: I ו-aVF. שניהם רואים אותו מתקרב ← תקין.",
+       "sci": false
+      },
+      {
+       "a": 15.77,
+       "b": 25.04,
+       "en": "I coming, aVF leaving → check II: coming = borderline, leaving = true left deviation.",
+       "he": "I מתקרב, aVF מתרחק ← בודקים II: מתקרב = גבולי, מתרחק = סטייה שמאלה.",
+       "sci": false
+      },
+      {
+       "a": 25.79,
+       "b": 49.18,
+       "en": "IN SCIENCE: normal −30° to +90° · left: LAFB, inferior MI · right: RV strain, young · extreme: swapped electrodes?",
+       "he": "במדע: תקין −30° עד +90° · שמאלה: LAFB, אוטם תחתון · ימינה: עומס על חדר ימין, צעירים · קיצוני: אלקטרודות הפוכות?",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 8,
+     "title": "PR, QRS, QT",
+     "dur": 55.3,
+     "v": "clips/t1018/c08.mp4",
+     "a": {
+      "en": "clips/t1018/c08_en.m4a",
+      "he": "clips/t1018/c08_he.m4a"
+     },
+     "cues": [
+      {
+       "a": 0.47,
+       "b": 10.06,
+       "en": "Doorman too slow → long pause · a side door → almost no pause.",
+       "he": "שוער איטי מדי ← הפסקה ארוכה · דלת צדדית ← כמעט בלי הפסקה.",
+       "sci": false
+      },
+      {
+       "a": 10.41,
+       "b": 18.77,
+       "en": "Lift broken → hand to hand through the choir → slow, wide chord.",
+       "he": "המעלית מקולקלת ← מיד ליד דרך המקהלה ← אקורד איטי ורחב.",
+       "sci": false
+      },
+      {
+       "a": 19.12,
+       "b": 25.05,
+       "en": "Choir stays on stage too long → the next song can start in chaos.",
+       "he": "המקהלה נשארת על הבמה יותר מדי ← השיר הבא עלול להתחיל בכאוס.",
+       "sci": false
+      },
+      {
+       "a": 25.8,
+       "b": 46.56,
+       "en": "IN SCIENCE: PR 120–200 ms (long = AV delay, short = accessory pathway) · QRS < ~110 · > 120 = cell-to-cell (BBB).",
+       "he": "במדע: PR ‏120–200 מ\"ש (ארוך = עיכוב AV, קצר = מסלול עזר) · QRS < ~110 · מעל 120 = מתא לתא (BBB).",
+       "sci": true
+      },
+      {
+       "a": 46.91,
+       "b": 54.83,
+       "en": "QTc ≤ 450 men, ≤ 460 women · long QT → torsades.",
+       "he": "QTc עד 450 בגברים, 460 בנשים · QT ארוך ← טורסאד.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 9,
+     "title": "הבודק · קריאה שיטתית",
+     "dur": 38.2,
+     "v": "clips/t1018/c09.mp4",
+     "a": {
+      "en": "clips/t1018/c09_en.m4a",
+      "he": "clips/t1018/c09_he.m4a"
+     },
+     "cues": [
+      {
+       "a": 0.47,
+       "b": 10.54,
+       "en": "Most errors are misses. Be an inspector: same checklist, same order, every time.",
+       "he": "רוב הטעויות הן החמצות. היו מפקחים: אותה רשימה, אותו סדר, כל פעם.",
+       "sci": false
+      },
+      {
+       "a": 11.29,
+       "b": 26.24,
+       "en": "IN SCIENCE: validity → rate/rhythm → intervals → axis → morphology → ischemia. Normal, abnormal or life-threatening? Look at the patient.",
+       "he": "במדע: תיקוף ← קצב/מקצב ← מרווחים ← ציר ← מורפולוגיה ← איסכמיה. תקין, חריג או מסכן חיים? להסתכל על החולה.",
+       "sci": true
+      },
+      {
+       "a": 27.19,
+       "b": 36.19,
+       "en": "Know the normal story – and every disorder becomes a fault at one stop.",
+       "he": "מכירים את הסיפור התקין – וכל הפרעה הופכת לתקלה בתחנה אחת.",
+       "sci": false
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
