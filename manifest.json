@@ -3,6 +3,289 @@
  "system_he": "קרדיולוגיה",
  "films": [
   {
+   "id": "t1020",
+   "day": "20/10/2026",
+   "title": "ניהול טכיאריתמיות, QT, תעלופתיות וסינקופה – בסיפורים",
+   "title_en": "Managing fast rhythms, QT, channelopathies and syncope, told as stories",
+   "course": "קרדיולוגיה",
+   "poster": "clips/t1020/poster.jpg",
+   "clips": [
+    {
+     "n": 1,
+     "title": "קופצים על הקצב · היפוך מסונכרן",
+     "dur": 69.6,
+     "v": {
+      "en": "clips/t1020/c01_en.mp4",
+      "he": "clips/t1020/c01_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 1.0,
+       "b": 13.68,
+       "en": "Three questions, again and again: stable? which box? is the doorman (AV node) in the loop?",
+       "he": "שלוש שאלות, שוב ושוב: יציב? איזו קופסה? האם השוער (קשר AV) בלולאה?",
+       "sci": false
+      },
+      {
+       "a": 14.63,
+       "b": 34.28,
+       "en": "Unstable because of the rhythm → electricity, not pills. Timing is everything: jump into the rope on the beat.",
+       "he": "לא יציב בגלל הקצב ← חשמל, לא כדורים. העיתוי הוא הכל: קופצים לחבל בדיוק על הקצב.",
+       "sci": false
+      },
+      {
+       "a": 34.63,
+       "b": 43.32,
+       "en": "On the beat → reset. In the vulnerable moment → chaos.",
+       "he": "על הקצב ← איפוס. ברגע הפגיע ← כאוס.",
+       "sci": false
+      },
+      {
+       "a": 44.07,
+       "b": 69.08,
+       "en": "IN SCIENCE: 5 signs: hypotension · altered consciousness · shock · ischemic pain · acute HF → caused by the rhythm? cardioversion, not drugs · synchronized to R · shock on T → VF.",
+       "he": "במדע: 5 סימנים: תת לחץ דם · שינוי בהכרה · שוק · כאב איסכמי · אי-ספיקה חריפה ← בגלל הקצב? היפוך חשמלי, לא תרופות · מסונכרן ל-R · מכה על ה-T ← VF.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "title": "ארבע קופסאות · אדנוזין",
+     "dur": 104.8,
+     "v": {
+      "en": "clips/t1020/c02_en.mp4",
+      "he": "clips/t1020/c02_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.47,
+       "b": 9.19,
+       "en": "Stable? Sort into 4 boxes: narrow or wide × regular or irregular.",
+       "he": "יציב? ממיינים ל-4 קופסאות: צר או רחב × סדיר או לא סדיר.",
+       "sci": false
+      },
+      {
+       "a": 9.53,
+       "b": 25.17,
+       "en": "Narrow regular: sinus, AVNRT, AVRT, atrial tachy, flutter 2:1 · narrow irregular: AF, flutter variable, MAT.",
+       "he": "צר סדיר: סינוס, AVNRT, ‏AVRT, טכי עלייתית, רפרוף 2:1 · צר לא סדיר: פרפור, רפרוף משתנה, MAT.",
+       "sci": false
+      },
+      {
+       "a": 25.52,
+       "b": 38.24,
+       "en": "Wide regular: VT until proven otherwise · wide irregular: AF + BBB, AF + pre-excitation, polymorphic VT.",
+       "he": "רחב סדיר: VT עד שהוכח אחרת · רחב לא סדיר: פרפור + BBB, פרפור + מסלול עוקף, VT פולימורפי.",
+       "sci": false
+      },
+      {
+       "a": 38.59,
+       "b": 53.07,
+       "en": "Shut the doorman's door for seconds: in the loop → stops; not → waves revealed. Not for AF.",
+       "he": "סוגרים לשוער את הדלת לשניות: בלולאה ← נעצר; לא ← הגלים נחשפים. לא בפרפור.",
+       "sci": false
+      },
+      {
+       "a": 53.82,
+       "b": 104.33,
+       "en": "IN SCIENCE: narrow regular: sinus, AVNRT, AVRT, AT, flutter 2:1 · narrow irregular: AF, flutter variable, MAT · wide regular: VT until proven otherwise · wide irregular: AF + BBB, AF + pre-excitation, polymorphic VT · adenosine 6 mg rapid push + flush → 12 mg · stops AVNRT/AVRT · unmasks flutter · not for AF.",
+       "he": "במדע: צר סדיר: סינוס, AVNRT, ‏AVRT, ‏AT, רפרוף 2:1 · צר לא סדיר: AF, רפרוף משתנה, MAT · רחב סדיר: VT עד שהוכח אחרת · רחב לא סדיר: AF + BBB, ‏AF + טרום-עירור, VT פולימורפי · אדנוזין 6 מ\"ג דחיפה מהירה + שטיפה ← 12 · עוצר AVNRT/AVRT · חושף רפרוף · לא ב-AF.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "title": "תוכנית הטיפול · AF-CARE",
+     "dur": 113.4,
+     "v": {
+      "en": "clips/t1020/c03_en.mp4",
+      "he": "clips/t1020/c03_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.47,
+       "b": 20.37,
+       "en": "AF gets a service plan: C-A-R-E. C = fix what drives it: pressure, pump, weight, snoring, drinks.",
+       "he": "לפרפור יש תוכנית טיפול: C-A-R-E. ‏C = מטפלים במה שמניע: לחץ דם, משאבה, משקל, נחירות, אלכוהול.",
+       "sci": false
+      },
+      {
+       "a": 20.72,
+       "b": 38.45,
+       "en": "A = avoid stroke (the risk is the patient's, not today's rhythm) · R = reduce symptoms (rate or rhythm) · E = evaluate at 6 months, then yearly.",
+       "he": "A = מניעת שבץ (הסיכון של המטופל, לא של הקצב היום) · R = הפחתת תסמינים (קצב או מקצב) · E = הערכה אחרי 6 חודשים ואז כל שנה.",
+       "sci": false
+      },
+      {
+       "a": 38.8,
+       "b": 56.88,
+       "en": "Sparks come from 4 pipes (pulmonary veins) → fence them off. Flutter has one bridge → cut it. Stroke rules unchanged.",
+       "he": "הניצוצות מגיעים מ-4 צינורות (ורידי הריאה) ← גדר סביבם. לרפרוף יש גשר אחד ← חותכים. כללי השבץ לא משתנים.",
+       "sci": false
+      },
+      {
+       "a": 57.62,
+       "b": 112.88,
+       "en": "IN SCIENCE: AF-CARE (2024) · C: HTN, HF, −10% weight, sleep apnea, ≤ 3 drinks/week · A: anticoagulate by CHA₂DS₂-VASc (the patient's risk, not today's rhythm) · R: rate or rhythm control · E: 6 months, then yearly · triggers in pulmonary veins → PV isolation · flutter: isthmus ablation > 95% · same anticoagulation rules.",
+       "he": "במדע: AF-CARE ‏(2024) · C: יתר לחץ דם, אי-ספיקה, ירידה של 10% במשקל, דום נשימה בשינה, עד 3 משקאות בשבוע · A: נוגדי קרישה לפי CHA₂DS₂-VASc (הסיכון של המטופל, לא של הקצב) · R: בקרת קצב או מקצב · E: אחרי 6 חודשים ואז כל שנה · טריגרים בורידי הריאה ← בידוד · רפרוף: אבלציה באיסתמוס מעל 95% · אותם כללי קרישה.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "title": "שני מתופפים · VT",
+     "dur": 83.0,
+     "v": {
+      "en": "clips/t1020/c04_en.mp4",
+      "he": "clips/t1020/c04_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.47,
+       "b": 16.63,
+       "en": "Wide regular → assume VT (the other mistake kills). Best proof: two drummers each keeping his own beat.",
+       "he": "רחב סדיר ← מניחים VT (הטעות ההפוכה הורגת). ההוכחה הכי טובה: שני מתופפים, כל אחד בקצב שלו.",
+       "sci": false
+      },
+      {
+       "a": 16.98,
+       "b": 27.65,
+       "en": "Sometimes an upstairs note sneaks through: one normal chord (capture) or a half-and-half (fusion).",
+       "he": "לפעמים תו מלמעלה מתגנב: אקורד אחד רגיל (capture) או חצי-חצי (fusion).",
+       "sci": false
+      },
+      {
+       "a": 28.0,
+       "b": 41.47,
+       "en": "Stable: a steady antiarrhythmic drip. Never the wrong calming pill (verapamil) in a damaged heart → collapse.",
+       "he": "יציב: עירוי נוגד הפרעות קצב. אף פעם לא הכדור הלא נכון (ורפמיל) בלב פגוע ← קריסה.",
+       "sci": false
+      },
+      {
+       "a": 42.22,
+       "b": 82.49,
+       "en": "IN SCIENCE: wide regular → VT · AV dissociation (~80%) = strongest proof · capture beat = narrow QRS · fusion beat = intermediate shape · stable: amiodarone 150 mg / 10 min or procainamide · never verapamil in VT with structural disease.",
+       "he": "במדע: רחב סדיר ← VT · דיסוציאציה AV ‏(~80%) = ההוכחה החזקה · capture = ‏QRS צר · fusion = צורה ביניים · יציב: אמיודרון 150 מ\"ג ב-10 דק' או פרוקאינאמיד · לא ורפמיל ב-VT עם מחלה מבנית.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 5,
+     "title": "הסרט המתפתל · QT וטורסאד",
+     "dur": 83.1,
+     "v": {
+      "en": "clips/t1020/c05_en.mp4",
+      "he": "clips/t1020/c05_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.48,
+       "b": 16.18,
+       "en": "Some pills stretch the rest time (long QT). The next song starts mid-pause → music twists like a ribbon (torsades).",
+       "he": "תרופות מסוימות מאריכות את זמן המנוחה (QT ארוך). השיר הבא מתחיל באמצע ← המוזיקה מתפתלת כמו סרט (טורסאד).",
+       "sci": false
+      },
+      {
+       "a": 16.53,
+       "b": 39.97,
+       "en": "Suspects: macrolides, quinolones, antipsychotics, methadone, IA/III + low K, Mg. Fix: Mg (even if normal), K up, faster HR, stop the drugs.",
+       "he": "חשודים: מקרולידים, קווינולונים, אנטי-פסיכוטיים, מתדון, IA/III + אשלגן ומגנזיום נמוכים. תיקון: מגנזיום (גם אם תקין), אשלגן, דופק מהיר, הפסקת תרופות.",
+       "sci": false
+      },
+      {
+       "a": 40.72,
+       "b": 82.59,
+       "en": "IN SCIENCE: antiarrhythmics → long QT + torsades · culprits: macrolides, quinolones, antipsychotics, methadone, class IA + III, ↓ K⁺, ↓ Mg²⁺ · treat: Mg 2 g IV (even if normal) · K⁺ 4.5–5 · ↑ HR · stop QT drugs.",
+       "he": "במדע: נוגדי הפרעות קצב ← QT ארוך + טורסאד · אשמים: מקרולידים, קווינולונים, אנטי-פסיכוטיים, מתדון, IA + III, ‏K⁺ ו-Mg²⁺ נמוכים · טיפול: מגנזיום 2 גרם IV (גם אם תקין) · אשלגן 4.5–5 · ↑ דופק · הפסקת תרופות.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 6,
+     "title": "דלתות פגומות · תעלופתיות",
+     "dur": 94.4,
+     "v": {
+      "en": "clips/t1020/c06_en.mp4",
+      "he": "clips/t1020/c06_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.48,
+       "b": 16.18,
+       "en": "Perfect hearts, faulty doors (channelopathies). Long QT: each door its own trigger – swimming · a sudden alarm · sleep.",
+       "he": "לבבות תקינים, דלתות פגומות (תעלופתיות). QT ארוך: לכל דלת טריגר – שחייה · שעון מעורר · שינה.",
+       "sci": false
+      },
+      {
+       "a": 16.53,
+       "b": 34.38,
+       "en": "Faulty Na door (Brugada): coved slope V1–V3, at rest, unmasked by fever · leaky Ca door (CPVT): normal at rest, strikes with exercise or fear.",
+       "he": "דלת נתרן פגומה (ברוגדה): שיפוע מקושת V1–V3, במנוחה, חום חושף · דלת סידן דולפת (CPVT): תקין במנוחה, מכה במאמץ או בפחד.",
+       "sci": false
+      },
+      {
+       "a": 34.73,
+       "b": 45.95,
+       "en": "All inherited: find one → screen the family. High risk → an ICD.",
+       "he": "כולן תורשתיות: מוצאים אחד ← בודקים את המשפחה. סיכון גבוה ← דפיברילטור מושתל.",
+       "sci": false
+      },
+      {
+       "a": 46.7,
+       "b": 93.9,
+       "en": "IN SCIENCE: channelopathies = normal structure, dangerous electricity · LQT1 exercise/swimming · LQT2 sudden noise · LQT3 sleep · Brugada: Na⁺ channel, coved ST ↑ V1–V3, rest/sleep, fever unmasks · CPVT: leaky RyR2 Ca²⁺ under adrenaline, normal resting ECG, exercise/emotion · inherited → family screening · ICD if high risk.",
+       "he": "במדע: תעלופתיות = מבנה תקין, חשמל מסוכן · LQT1 מאמץ/שחייה · LQT2 רעש פתאומי · LQT3 שינה · ברוגדה: תעלת נתרן, עליית ST מקושתת V1–V3, מנוחה ושינה, חום חושף · CPVT: ‏RyR2 דולף תחת אדרנלין, אק\"ג תקין במנוחה, מאמץ/רגש · תורשתי ← סקר משפחתי · ICD בסיכון גבוה.",
+       "sci": true
+      }
+     ]
+    },
+    {
+     "n": 7,
+     "title": "הפסקת החשמל · סינקופה",
+     "dur": 97.7,
+     "v": {
+      "en": "clips/t1020/c07_en.mp4",
+      "he": "clips/t1020/c07_he.mp4"
+     },
+     "cues": [
+      {
+       "a": 0.48,
+       "b": 20.1,
+       "en": "Fainting = a short power cut to the whole house. Most: a tripped switch (reflex, standing up). A few: the generator itself – maybe the only warning.",
+       "he": "התעלפות = הפסקת חשמל קצרה בכל הבית. רובן: מתג שקפץ (רפלקס, קימה). מעטות: הגנרטור עצמו – אולי האזהרה היחידה.",
+       "sci": false
+      },
+      {
+       "a": 20.45,
+       "b": 42.72,
+       "en": "History = best test → exam, standing BP, ECG. Red flags: on effort · lying down · no warning · palpitations first · heart disease · abnormal ECG · sudden death in family.",
+       "he": "אנמנזה = הבדיקה הכי טובה ← בדיקה, ל\"ד בעמידה, אק\"ג. דגלים אדומים: במאמץ · בשכיבה · בלי אזהרה · דפיקות לפני · מחלת לב · אק\"ג חריג · מוות פתאומי במשפחה.",
+       "sci": false
+      },
+      {
+       "a": 43.47,
+       "b": 86.44,
+       "en": "IN SCIENCE: syncope = transient LOC from global cerebral hypoperfusion · ~90% non-cardiac (reflex, orthostatic) · ~10% cardiac (warning before SCD) · history > exam > orthostatic BP > ECG · red flags: exertional/supine, no prodrome, palpitations, structural disease, abnormal ECG, family SCD.",
+       "he": "במדע: סינקופה = אובדן הכרה חולף מתת-זילוח מוחי כללי · ~90% לא לבבי (רפלקס, אורתוסטטי) · ~10% לבבי (אזהרה לפני מוות פתאומי) · אנמנזה ← בדיקה ← ל\"ד אורתוסטטי ← אק\"ג · דגלים: במאמץ/שכיבה, בלי פרודרום, דפיקות, מחלה מבנית, אק\"ג חריג, מוות פתאומי במשפחה.",
+       "sci": true
+      },
+      {
+       "a": 87.39,
+       "b": 95.67,
+       "en": "Stable → box → doorman. Three questions.",
+       "he": "יציב ← קופסה ← שוער. שלוש שאלות.",
+       "sci": false
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "t1019",
    "day": "19/10/2026",
    "title": "ברדי וטכיאריתמיות – בסיפורים",
