@@ -13,36 +13,37 @@
     {
      "n": 1,
      "title": "שרשרת הדליים · ברדיקרדיה",
-     "dur": 56.6,
+     "dur": 70.7,
      "v": "clips/t1019/c01.mp4",
      "a": {
-      "en": "clips/t1019/c01_en.m4a"
+      "en": "clips/t1019/c01_en.m4a",
+      "he": "clips/t1019/c01_he.m4a"
      },
      "cues": [
       {
        "a": 1.0,
-       "b": 10.66,
+       "b": 15.17,
        "en": "Slow? Where does the music stop. Fast? First: is the patient stable?",
        "he": "איטי? איפה המוזיקה נעצרת. מהיר? קודם: האם המטופל יציב?",
        "sci": false
       },
       {
-       "a": 11.61,
-       "b": 21.91,
+       "a": 16.12,
+       "b": 29.97,
        "en": "Bucket chain: output = buckets per minute × water per bucket. Too few → brain, muscles, heart go thirsty.",
        "he": "שרשרת דליים: תפוקה = דליים לדקה × מים בדלי. מעט מדי ← המוח, השרירים והלב צמאים.",
        "sci": false
       },
       {
-       "a": 22.26,
-       "b": 38.38,
+       "a": 30.32,
+       "b": 49.02,
        "en": "Slow is a finding: athlete at 45 who speeds up = healthy · old man at 45 who faints = sick · feels fine, dangerous level = the trap.",
        "he": "איטי זה ממצא: ספורטאי ב-45 שמאיץ = בריא · זקן ב-45 שמתעלף = חולה · מרגיש טוב ברמה מסוכנת = המלכודת.",
        "sci": false
       },
       {
-       "a": 39.12,
-       "b": 56.09,
+       "a": 49.77,
+       "b": 70.23,
        "en": "IN SCIENCE: CO = HR × SV · bradycardia < 50 (old: 60) · a finding, not a diagnosis · judge: symptoms, response to effort, level of block.",
        "he": "במדע: תפוקת לב = דופק × נפח פעימה · ברדיקרדיה מתחת ל-50 (פעם: 60) · ממצא, לא אבחנה · שופטים לפי תסמינים, תגובה למאמץ ורמת החסם.",
        "sci": true
@@ -52,36 +53,37 @@
     {
      "n": 2,
      "title": "מוצאים את הרמה · חסמי AV",
-     "dur": 74.4,
+     "dur": 94.6,
      "v": "clips/t1019/c02.mp4",
      "a": {
-      "en": "clips/t1019/c02_en.m4a"
+      "en": "clips/t1019/c02_en.m4a",
+      "he": "clips/t1019/c02_he.m4a"
      },
      "cues": [
       {
-       "a": 0.48,
-       "b": 10.53,
+       "a": 0.47,
+       "b": 14.6,
        "en": "Count the violin notes. Few? The conductor: slow, pausing, or swinging slow–fast.",
        "he": "סופרים את תווי הכינורות. מעט? המנצח: איטי, עוצר, או מתנדנד בין איטי למהיר.",
        "sci": false
       },
       {
-       "a": 10.88,
-       "b": 23.66,
+       "a": 14.95,
+       "b": 32.47,
        "en": "Plenty of notes, not all reach the choir → the path. The doorman tires: waits longer each time, then skips one. Good backup behind him.",
        "he": "הרבה תווים, לא כולם מגיעים למקהלה ← הדרך. השוער מתעייף: מחכה יותר כל פעם, ואז מדלג. גיבוי טוב מאחוריו.",
        "sci": false
       },
       {
-       "a": 24.01,
-       "b": 35.53,
+       "a": 32.82,
+       "b": 46.74,
        "en": "The lift below is all or nothing: same timing, then sudden failure. Backup: the drummer, slow and unreliable.",
        "he": "המעלית מתחתיו היא הכל או כלום: אותו תזמון, ואז נכשלת פתאום. הגיבוי: המתופף, איטי ולא אמין.",
        "sci": false
       },
       {
-       "a": 36.28,
-       "b": 73.9,
+       "a": 47.49,
+       "b": 94.15,
        "en": "IN SCIENCE: few P → sinus node disease (brady, pauses, tachy–brady) · more P than QRS → AV block · Mobitz I (Wenckebach): PR ↑ → drop, nodal, junctional escape, benign · Mobitz II: fixed PR → sudden drop, His–Purkinje, ventricular escape → pace even if asymptomatic · narrow QRS + long PR → node · BBB + normal PR → below.",
        "he": "במדע: מעט גלי P ← מחלת קשר הסינוס (ברדי, הפסקות, טכי-ברדי) · יותר P מ-QRS ← חסם AV · מוביץ 1 (וונקבך): PR מתארך ← נפילה, ברמת הקשר, מקצב צמתי, שפיר · מוביץ 2: PR קבוע ← נפילה פתאומית, היס-פורקינייה, מקצב חדרי לא אמין ← קוצב גם בלי תסמינים · QRS צר + PR ארוך ← הקשר · BBB + PR תקין ← מתחת.",
        "sci": true
@@ -91,29 +93,30 @@
     {
      "n": 3,
      "title": "פיר אחד שבור · BBB",
-     "dur": 43.3,
+     "dur": 56.2,
      "v": "clips/t1019/c03.mp4",
      "a": {
-      "en": "clips/t1019/c03_en.m4a"
+      "en": "clips/t1019/c03_en.m4a",
+      "he": "clips/t1019/c03_he.m4a"
      },
      "cues": [
       {
        "a": 0.47,
-       "b": 11.91,
+       "b": 17.06,
        "en": "Two lift shafts, one per half of the choir. One breaks → that half hears late, singer to singer → a wider chord.",
        "he": "שני פירים במעלית, אחד לכל חצי מקהלה. אחד נשבר ← החצי הזה שומע מאוחר, מזמר לזמר ← אקורד רחב יותר.",
        "sci": false
       },
       {
-       "a": 12.26,
-       "b": 20.81,
+       "a": 17.41,
+       "b": 29.81,
        "en": "Two of three cables cut → one holds everything. Add fainting → hunt for the moment it fails.",
        "he": "שניים משלושה כבלים חתוכים ← אחד מחזיק הכל. ועם התעלפות ← מחפשים את הרגע שהוא נכשל.",
        "sci": false
       },
       {
-       "a": 21.56,
-       "b": 42.82,
+       "a": 30.56,
+       "b": 55.76,
        "en": "IN SCIENCE: BBB → one ventricle activated cell-to-cell → wide QRS · RBBB: rsR′ in V1 · LBBB: broad notched R in V6 · bifascicular block + syncope → look for intermittent AV block.",
        "he": "במדע: BBB ← חדר אחד מופעל מתא לתא ← QRS רחב · RBBB: ‏rsR′ ב-V1 · LBBB: ‏R רחב ומחורץ ב-V6 · חסם דו-פסיקולרי + סינקופה ← לחפש חסם AV לסירוגין.",
        "sci": true
@@ -123,36 +126,37 @@
     {
      "n": 4,
      "title": "הסולם · טיפול בלב איטי",
-     "dur": 55.6,
+     "dur": 73.8,
      "v": "clips/t1019/c04.mp4",
      "a": {
-      "en": "clips/t1019/c04_en.m4a"
+      "en": "clips/t1019/c04_en.m4a",
+      "he": "clips/t1019/c04_he.m4a"
      },
      "cues": [
       {
        "a": 0.48,
-       "b": 11.43,
+       "b": 13.92,
        "en": "A ladder: keep the music going – coffee for the conductor → a stronger stimulant → an emergency metronome.",
        "he": "סולם: שומרים על המוזיקה – קפה למנצח ← ממריץ חזק יותר ← מטרונום חירום.",
        "sci": false
       },
       {
-       "a": 11.78,
-       "b": 21.43,
+       "a": 14.27,
+       "b": 28.59,
        "en": "Then ask why: pills, salts, ischemia, thyroid, cold. Only then a permanent metronome.",
        "he": "ואז שואלים למה: תרופות, מלחים, איסכמיה, בלוטת התריס, קור. רק אז מטרונום קבוע.",
        "sci": false
       },
       {
-       "a": 21.78,
-       "b": 30.1,
+       "a": 28.94,
+       "b": 40.79,
        "en": "Coffee wakes the conductor and doorman, not the lift. Never silence the drummer – he may be the only one playing.",
        "he": "קפה מעיר את המנצח והשוער, לא את המעלית. אף פעם לא משתיקים את המתופף – אולי רק הוא עוד מנגן.",
        "sci": false
       },
       {
-       "a": 30.85,
-       "b": 55.14,
+       "a": 41.54,
+       "b": 73.3,
        "en": "IN SCIENCE: 1. stabilize: atropine → adrenaline / dopamine → temporary pacing · 2. reversible causes: drugs, K⁺, ischemia, hypothyroidism, hypothermia · 3. permanent pacemaker · atropine: sinus + AV node only, not infra-His · never suppress an escape rhythm.",
        "he": "במדע: 1. ייצוב: אטרופין ← אדרנלין / דופמין ← קיצוב זמני · 2. סיבות הפיכות: תרופות, אשלגן, איסכמיה, תת-פעילות התריס, היפותרמיה · 3. קוצב קבוע · אטרופין: רק סינוס וקשר AV, לא מתחת להיס · לא לדכא מקצב מילוט.",
        "sci": true
@@ -162,29 +166,30 @@
     {
      "n": 5,
      "title": "האולם בוער? · יציבות",
-     "dur": 47.1,
+     "dur": 60.4,
      "v": "clips/t1019/c05.mp4",
      "a": {
-      "en": "clips/t1019/c05_en.m4a"
+      "en": "clips/t1019/c05_en.m4a",
+      "he": "clips/t1019/c05_he.m4a"
      },
      "cues": [
       {
-       "a": 0.47,
-       "b": 13.6,
+       "a": 0.48,
+       "b": 20.17,
        "en": "Fast heart: if the hall is on fire, don't analyze. Shock, fainting, confusion, chest pain, heart failure → reset now, whatever the screen.",
        "he": "לב מהיר: אם האולם בוער, לא מנתחים. שוק, התעלפות, בלבול, כאב בחזה, אי-ספיקה ← מאפסים עכשיו, לא משנה מה על המסך.",
        "sci": false
       },
       {
-       "a": 13.95,
-       "b": 23.54,
+       "a": 20.52,
+       "b": 32.45,
        "en": "Stable? Sort it: narrow = from above · wide = treat as the dangerous one until proven otherwise.",
        "he": "יציב? ממיינים: צר = מלמעלה · רחב = מתייחסים אליו כמסוכן עד שהוכח אחרת.",
        "sci": false
       },
       {
-       "a": 24.29,
-       "b": 46.62,
+       "a": 33.2,
+       "b": 59.93,
        "en": "IN SCIENCE: unstable = shock, syncope, altered consciousness, ischemic pain, acute HF → synchronized cardioversion, whatever the ECG · stable: narrow QRS = supraventricular · wide QRS = VT until proven otherwise.",
        "he": "במדע: לא יציב = שוק, סינקופה, הכרה מעורפלת, כאב איסכמי, אי-ספיקה חריפה ← היפוך חשמלי מסונכרן, בלי קשר לאק\"ג · יציב: QRS צר = על-חדרי · QRS רחב = VT עד שהוכח אחרת.",
        "sci": true
@@ -194,29 +199,30 @@
     {
      "n": 6,
      "title": "שלוש דרכים להאיץ · מנגנונים",
-     "dur": 51.8,
+     "dur": 67.8,
      "v": "clips/t1019/c06.mp4",
      "a": {
-      "en": "clips/t1019/c06_en.m4a"
+      "en": "clips/t1019/c06_en.m4a",
+      "he": "clips/t1019/c06_he.m4a"
      },
      "cues": [
       {
-       "a": 0.48,
-       "b": 14.46,
+       "a": 0.47,
+       "b": 19.96,
        "en": "Three ways to race. 1. A roundabout with a fast and a slow lane: a car trapped looping. On/off like a switch; block any point → stops.",
        "he": "שלוש דרכים להאיץ. 1. כיכר עם נתיב מהיר ונתיב איטי: מכונית לכודה בלולאה. נדלק ונכבה כמו מתג; חוסמים נקודה ← נעצר.",
        "sci": false
       },
       {
-       "a": 14.81,
-       "b": 26.57,
+       "a": 20.31,
+       "b": 35.38,
        "en": "2. An impatient musician faster than the conductor: warms up, cools down. 3. Echoes after a note that become a note.",
        "he": "2. נגן חסר סבלנות מהיר מהמנצח: מתחמם ומתקרר. 3. הדים אחרי תו שהופכים לתו.",
        "sci": false
       },
       {
-       "a": 27.32,
-       "b": 51.32,
+       "a": 36.13,
+       "b": 67.33,
        "en": "IN SCIENCE: re-entry (commonest): circuit with fast + slow pathways · abrupt on/off · block any point → stops · enhanced automaticity: focus > sinus, warm-up/cool-down · triggered activity: afterdepolarizations (long QT, digoxin).",
        "he": "במדע: ריאנטרי (הכי שכיח): מעגל עם מסלול מהיר ואיטי · התחלה וסוף פתאומיים · חסימת נקודה ← עוצר · אוטומטיות מוגברת: מוקד מהיר מהסינוס, התחממות והתקררות · פעילות מעוררת: דה-פולריזציות מאוחרות (QT ארוך, דיגוקסין).",
        "sci": true
@@ -226,36 +232,37 @@
     {
      "n": 7,
      "title": "מוצאים את התו · SVT ואדנוזין",
-     "dur": 64.1,
+     "dur": 88.9,
      "v": "clips/t1019/c07.mp4",
      "a": {
-      "en": "clips/t1019/c07_en.m4a"
+      "en": "clips/t1019/c07_en.m4a",
+      "he": "clips/t1019/c07_he.m4a"
      },
      "cues": [
       {
        "a": 0.48,
-       "b": 10.79,
+       "b": 13.38,
        "en": "Narrow, regular? Find the violin note. A tiny roundabout in the doorman's booth: note hidden in the chord.",
        "he": "צר וסדיר? מוצאים את תו הכינור. כיכר זעירה בתוך תא השוער: התו מוסתר באקורד.",
        "sci": false
       },
       {
-       "a": 11.14,
-       "b": 21.64,
+       "a": 13.73,
+       "b": 28.15,
        "en": "A big loop – down via the doorman, back up a secret staircase: note just after the chord. A violin focus: a note before every chord.",
        "he": "לולאה גדולה – למטה דרך השוער ובחזרה במדרגות סודיות: התו מיד אחרי האקורד. מוקד בכינורות: תו לפני כל אקורד.",
        "sci": false
       },
       {
-       "a": 21.99,
-       "b": 33.79,
+       "a": 28.5,
+       "b": 45.75,
        "en": "Close the doorman's door for seconds: part of the loop → stops; if not → violins revealed. Record: treatment + diagnosis.",
        "he": "סוגרים את דלת השוער לכמה שניות: חלק מהלולאה ← נעצר; אם לא ← הכינורות נחשפים. מקליטים: טיפול + אבחנה.",
        "sci": false
       },
       {
-       "a": 34.54,
-       "b": 63.67,
+       "a": 46.5,
+       "b": 88.38,
        "en": "IN SCIENCE: AVNRT: micro re-entry in the AV node → P hidden in QRS · AVRT: down the node, up an accessory pathway → P in ST · atrial tachycardia: focus → P before each QRS · adenosine: blocks AV node seconds → stops node-dependent, unmasks atrial · record while giving.",
        "he": "במדע: AVNRT: ריאנטרי זעיר בקשר AV ← P מוסתר ב-QRS · AVRT: למטה בקשר, למעלה במסלול עוקף ← P במקטע ST · טכיקרדיה עלייתית: מוקד ← P לפני כל QRS · אדנוזין: חוסם את הקשר לשניות ← עוצר תלויי-קשר, חושף עלייתיות · להקליט בזמן הנתינה.",
        "sci": true
@@ -265,29 +272,30 @@
     {
      "n": 8,
      "title": "הדלת הצדדית · WPW",
-     "dur": 39.2,
+     "dur": 50.7,
      "v": "clips/t1019/c08.mp4",
      "a": {
-      "en": "clips/t1019/c08_en.m4a"
+      "en": "clips/t1019/c08_en.m4a",
+      "he": "clips/t1019/c08_he.m4a"
      },
      "cues": [
       {
-       "a": 0.48,
-       "b": 9.47,
+       "a": 0.47,
+       "b": 12.88,
        "en": "The secret staircase = a side door: skips the doorman's pause → short gap, slurred start.",
        "he": "המדרגות הסודיות = דלת צדדית: מדלגת על ההמתנה של השוער ← מרווח קצר, התחלה מרוחה.",
        "sci": false
       },
       {
-       "a": 9.82,
-       "b": 20.69,
+       "a": 13.23,
+       "b": 27.85,
        "en": "Danger: chaotic violins. The doorman is the only brake – block him and every wave rushes the side door → collapse.",
        "he": "הסכנה: כינורות בכאוס. השוער הוא הבלם היחיד – חוסמים אותו וכל גל רץ לדלת הצדדית ← קריסה.",
        "sci": false
       },
       {
-       "a": 21.44,
-       "b": 38.74,
+       "a": 28.6,
+       "b": 50.25,
        "en": "IN SCIENCE: accessory pathway (WPW) = breach in the fibrous ring · short PR + delta wave · AF + AV-nodal blockers → all impulses down the pathway → VF.",
        "he": "במדע: מסלול עוקף (WPW) = פרצה בטבעת הסיבית · PR קצר + גל דלתא · פרפור עליות + חוסמי קשר AV ← כל הגלים במסלול ← VF.",
        "sci": true
@@ -297,36 +305,37 @@
     {
      "n": 9,
      "title": "כאוס מול לולאה · AF ורפרוף",
-     "dur": 57.6,
+     "dur": 77.8,
      "v": "clips/t1019/c09.mp4",
      "a": {
-      "en": "clips/t1019/c09_en.m4a"
+      "en": "clips/t1019/c09_en.m4a",
+      "he": "clips/t1019/c09_he.m4a"
      },
      "cues": [
       {
        "a": 0.48,
-       "b": 13.93,
+       "b": 19.7,
        "en": "Violins in chaos: no pattern, no notes. Danger isn't speed – a still stage forms clots. First: who needs anticoagulation?",
        "he": "כינורות בכאוס: בלי דפוס, בלי תווים. הסכנה היא לא המהירות – במה שלא זזה יוצרת קרישים. קודם: מי צריך נוגדי קרישה?",
        "sci": false
       },
       {
-       "a": 14.28,
-       "b": 22.43,
+       "a": 20.05,
+       "b": 33.9,
        "en": "Its cousin: one big orderly loop around a valve – saw teeth. One road → one cut breaks it.",
        "he": "בן הדוד: לולאה גדולה ומסודרת סביב מסתם – שיני מסור. דרך אחת ← חיתוך אחד שובר אותה.",
        "sci": false
       },
       {
-       "a": 23.18,
-       "b": 47.86,
+       "a": 34.65,
+       "b": 64.4,
        "en": "IN SCIENCE: AF: irregularly irregular, no P · main risk = thromboembolism → anticoagulate if CHA₂DS₂-VASc ≥ 2 · flutter: macro re-entry around the tricuspid annulus, sawtooth ~300 · isthmus ablation.",
        "he": "במדע: פרפור עליות: לא סדיר לחלוטין, בלי P · הסיכון העיקרי = תסחיף ← נוגדי קרישה אם CHA₂DS₂-VASc ≥ 2 · רפרוף: ריאנטרי גדול סביב טבעת התלת-צניפית, שיני מסור ~300 · אבלציה באיסתמוס.",
        "sci": true
       },
       {
-       "a": 48.81,
-       "b": 55.57,
+       "a": 65.35,
+       "b": 75.84,
        "en": "Slow → find the level. Fast → stable? then the mechanism.",
        "he": "איטי ← מוצאים את הרמה. מהיר ← יציב? ואז המנגנון.",
        "sci": false
